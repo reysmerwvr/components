@@ -7,6 +7,11 @@
 - Dart >= 2.9.3
 - Flutter >= 1.20.4
 
+## 👁 Preview
+
+![main-screen](main-screen.png)
+![cards](cards.png)
+
 ## ⬇️ Version
 
 1.0.0
